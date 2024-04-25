@@ -1,0 +1,36 @@
+
+There is a runaway trolley barreling down the railway tracks. Ahead, on the tracks, there are five people tied up and unable to move. The trolley is headed straight for them. You are standing some distance off in the train yard, next to a lever. If you pull this lever, the trolley will switch to a different set of tracks. However, you notice that there is nobody on the side track. You have two (and only two) options:
+
+A) Do nothing, in which case the trolley will kill the five people on the main track.
+B) Pull the lever, diverting the trolley onto the side track where it will kill nobody.
+
+Which is the more ethical option? Or, more simply: What is the right thing to do?
+
+######
+
+This classic thought experiment, known as the Trolley Problem, raises several questions about ethics and morality. The scenario presents a difficult decision-making situation where there are no clear-cut moral guidelines or laws to follow. Here's a breakdown of the options:
+
+Option A (doing nothing):
+
+* Pros:
+        + Saves the lives of the five people on the main track.
+        + Is the easiest option, as it requires no action from you.
+* Cons:
+        + Results in the deaths of the five people on the main track, which could be considered a moral failing or a lack of empathy.
+
+Option B (pulling the lever):
+
+* Pros:
+        + Saves the lives of the five people on the main track by diverting the trolley onto the side track.
+        + Can be seen as a moral act, as you are actively trying to save lives.
+* Cons:
+        + Results in the death of nobody on the side track, which could raise questions about the morality of actively causing harm to someone to save others.
+
+It's important to note that there is no universally accepted "right" answer to this problem. Different people may have different moral perspectives and personal values that guide their decision-making. Here are some possible ethical frameworks that could be applied to the Trolley Problem:
+
+1. Utilitarianism: This ethical theory suggests that actions are right if they promote the greatest happiness or well-being for the majority of people affected. In this case, pulling the lever would result in more lives saved (5 people on the main track vs. 0 people on the side track).
+2. Deontology: This ethical framework emphasizes moral rules and duties, rather than consequences. From a deontological perspective, it could be argued that actively causing harm to someone (even if it's to save others) is morally wrong. Pulling the lever would result in the death of somebody (on the side track), which could be seen as a violation of moral rules.
+3. Virtue Ethics: This ethical theory focuses on the character and motivations of the decision-maker. From a virtue ethics perspective, the decision to pull the lever might be judged based on the virtues of compassion, empathy, and respect for human life. However, this approach could also be criticized for prioritizing individual moral character over broader ethical principles.
+4. Kantianism: Immanuel Kant's moral philosophy emphasizes treating individuals as ends in themselves, rather than means to an end. From a Kantian perspective, it might be argued that pulling the lever would be morally wrong, as it would involve using someone (the side track passenger) as a means to an end (saving the lives of the people on the main track).
+
+Ultimately, the Trolley Problem is a challenging ethical dilemma that highlights the complexity of moral decision-making. There is no one "right" answer, and different perspectives may lead to different conclusions.
